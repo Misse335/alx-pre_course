@@ -1,0 +1,9 @@
+[user]
+	email = misse335@gmail.com
+	name = Misse335
+[credential]
+	helper = wincred
+[push]
+	autoSetupRemote = true
+	autoSetupRemote = true
+	default = current
